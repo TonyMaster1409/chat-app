@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚡ Real-Time Chat Application (2024 Edition)
 
 A high-performance, real-time chat application built with **Spring Boot 3 (WebSocket & STOMP)**, **React 18 (TypeScript + Tailwind CSS)**, **Redis (Pub/Sub message broker)**, and **PostgreSQL** for persistent storage.
@@ -132,3 +133,7 @@ npm run dev
 ├── docker-compose.yml        # Docker orchestrator for PostgreSQL & Redis
 └── README.md
 ```
+=======
+# chat-app
+Built a real-time messaging app supporting 10,000+ concurrent users using Spring WebSocket and STOMP • Used Redis Pub/Sub for message broadcasting across distributed instances
+>>>>>>> d1eb4daa9ca29e3131adcc65f82a2198cb3f6401
